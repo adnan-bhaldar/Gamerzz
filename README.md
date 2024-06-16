@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/addnan-bhaldar/gamerzz)
-  ![GitHub stars](https://img.shields.io/github/stars/addnan-bhaldar/gamerzz?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/addnan-bhaldar/gamerzz?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/gamerzz)
+  ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/gamerzz?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/gamerzz?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
   [![YouTube Video Views](https://img.shields.io/youtube/views/FAo8xeq4NKw?style=social)](https://youtu.be/FAo8xeq4NKw)
 
@@ -36,13 +36,13 @@ To run **Unigine** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/addnan-bhaldar/gamerzz.git
+sudo git clone https://github.com/adnan-bhaldar/gamerzz.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/addnan-bhaldar/gamerzz.git
+git clone https://github.com/adnan-bhaldar/gamerzz.git
 ```
 
 ### Contact
